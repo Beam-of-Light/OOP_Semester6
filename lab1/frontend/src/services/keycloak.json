@@ -1,0 +1,13 @@
+{
+  "realm": "Airport",
+  "auth-server-url": "http://localhost:8180/auth/",
+  "ssl-required": "external",
+  "resource": "spring-boot-app",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "4442618d-d029-4c06-b77f-12919d37b263"
+  },
+  "use-resource-role-mappings": true,
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}

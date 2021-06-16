@@ -1,0 +1,4 @@
+changeLogFile=/db/changelog/dbchangelog.xml
+url=jdbc:postgresql://localhost:5432/airport
+username=postgres
+password=admin
